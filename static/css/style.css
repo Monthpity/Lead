@@ -20,6 +20,10 @@
     font-display: swap;
 }
 
+.Englishfont{
+    font-family: title;
+}
+
 * {
     margin: 0;
     padding: 0;
